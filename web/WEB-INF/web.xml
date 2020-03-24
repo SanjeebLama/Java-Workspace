@@ -20,6 +20,10 @@
         <servlet-name>SetAQues15</servlet-name>
         <servlet-class>Orchid.SetAQues15</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>SetBQues12</servlet-name>
+        <servlet-class>Orchid.SetBQues12</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>SetAQues2</servlet-name>
         <url-pattern>/SetAQues2</url-pattern>
@@ -39,6 +43,10 @@
     <servlet-mapping>
         <servlet-name>SetAQues15</servlet-name>
         <url-pattern>/SetAQues15</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>SetBQues12</servlet-name>
+        <url-pattern>/SetBQues12</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
