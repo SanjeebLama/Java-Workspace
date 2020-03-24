@@ -16,6 +16,10 @@
         <servlet-name>SetBQues7</servlet-name>
         <servlet-class>Nagarjuna.SetBQues7</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>SetAQues15</servlet-name>
+        <servlet-class>Orchid.SetAQues15</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>SetAQues2</servlet-name>
         <url-pattern>/SetAQues2</url-pattern>
@@ -31,6 +35,10 @@
     <servlet-mapping>
         <servlet-name>SetBQues7</servlet-name>
         <url-pattern>/SetBQues7</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>SetAQues15</servlet-name>
+        <url-pattern>/SetAQues15</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
