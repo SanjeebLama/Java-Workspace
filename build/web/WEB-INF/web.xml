@@ -24,6 +24,18 @@
         <servlet-name>SetBQues12</servlet-name>
         <servlet-class>Orchid.SetBQues12</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>Ques3</servlet-name>
+        <servlet-class>Prime.Ques3</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Servlet1</servlet-name>
+        <servlet-class>Prime.Servlet1</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>Servlet2</servlet-name>
+        <servlet-class>Prime.Servlet2</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>SetAQues2</servlet-name>
         <url-pattern>/SetAQues2</url-pattern>
@@ -47,6 +59,18 @@
     <servlet-mapping>
         <servlet-name>SetBQues12</servlet-name>
         <url-pattern>/SetBQues12</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Ques3</servlet-name>
+        <url-pattern>/Ques3</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Servlet1</servlet-name>
+        <url-pattern>/Servlet1</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Servlet2</servlet-name>
+        <url-pattern>/Servlet2</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
