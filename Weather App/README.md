@@ -5,7 +5,7 @@
 </p>
 
 <!-- <p align="center">
-    <img src="https://github.com/curadProgrammer/WeatherAppGUI-Java/blob/main/Screenshot_15.png?raw=true" align="center">
+    <img src="https://github.com/SanjeebLama/Java-Workspace/Weather-App/blob/main/screenshot.png?raw=true" align="center">
 </p> -->
 
 <h2>Technologies Used</h2>
